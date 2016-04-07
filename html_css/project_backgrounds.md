@@ -4,7 +4,7 @@ In this project you'll clone the website of one of the most design-forward compa
 
 ## Steps to Victory
 
-1. Go to [apple.com](http://www.apple.com) and have a look around.
+1. Go to this old version of [apple.com](http://web.archive.org/web/20140301004610/http://www.apple.com/) and have a look around.
 2. Follow the instructions atop the [Google Homepage project](/web-development-101/html-css) to set up a Github repository for this project (of course you'll need to change the title).
 3. Create a new HTML document.
 4. Think about all the elements on the page and how they are grouped together.
@@ -22,11 +22,17 @@ In this project you'll clone the website of one of the most design-forward compa
 * [Shouvik Roy's solution](https://github.com/royshouvik/applehome) | [View in browser](http://htmlpreview.github.io/?https://github.com/royshouvik/applehome/blob/master/index.html)
 * [Meher Chandan's solution](https://github.com/meherchandan/Apple_Project) | [View in browser](http://htmlpreview.github.io/?https://github.com/meherchandan/Apple_Project/blob/master/Index.html)
 * [Artur Janik's solution](https://github.com/ArturJanik/ProjectApple) | [View in browser](http://htmlpreview.github.io/?https://github.com/ArturJanik/ProjectApple/blob/master/index2.html)
-* [Ryan Jordan's solution](https://github.com/krjordan/apple-project) | [View in browser](http://htmlpreview.github.io/?https://github.com/krjordan/apple-project/blob/master/index.html)
+* [Ryan Jordan's solution](https://github.com/krjordan/odin-project/tree/master/apple-project) | [View in browser](http://htmlpreview.github.io/?https://github.com/krjordan/odin-project/tree/master/apple-project/index.html)
 * [Hailey Foster's solution](https://github.com/hmfoster/apple-backgrounds.git) | [View in browser](http://htmlpreview.github.io/?https://github.com/hmfoster/apple-backgrounds/blob/master/index.html)
 * [Frank Peelen's solution](https://github.com/FrankPeelen/Apple-CSS) | [View in browser](https://rawgit.com/FrankPeelen/Apple-CSS/master/index.html)
 * [AyeSea's solution](https://github.com/AyeSea/apple-homepage) | [View in browser](https://htmlpreview.github.io/?https://github.com/AyeSea/apple-homepage/blob/master/index.html)
 * [AtActionPark's solution](https://github.com/AtActionPark/odin_backgrounds_and_gradients) | [View in browser](https://htmlpreview.github.io/?https://github.com/AtActionPark/odin_backgrounds_and_gradients/blob/master/main.html)
+* [Voreny's solution](https://github.com/Gelio/apple-homepage) | [View in browser](http://gelio.github.io/apple-homepage/)
+* [Dusan Milosavljevic's solution](https://github.com/dusanmilosavljevic1624/Project-Backgrounds-and-Gradients) | [View in browser](http://dusanmilosavljevic1624.github.io/Project-Backgrounds-and-Gradients/)
+* [Noman karim's solution](https://github.com/nomankarim/apple.com) | [View in browser](https://htmlpreview.github.io/?https://github.com/nomankarim/apple.com/blob/master/index.html)
+* [Cameron Kelley's solution](https://github.com/cameronjkelley/the_odin_project/tree/master/html5_css3/apple-homepage) | [View in browser](https://htmlpreview.github.io/?https://github.com/cameronjkelley/the_odin_project/blob/master/html5_css3/apple-homepage/index.html)
+* [Luke Walker's Solution](https://github.com/ubershibs/odin-html-css/tree/master/apple) | [View in browser](https://htmlpreview.github.io/?https://github.com/ubershibs/odin-html-css/blob/master/apple/index.html)
+* [cdouglass's solution](https://github.com/cdouglass/odin-project-exercises/blob/master/html-css/backgrounds-and-gradients/touchstone.html) cloning [http://touchstonejs.io/](http://touchstonejs.io/) | [View in browser](https://htmlpreview.github.io/?https://github.com/cdouglass/odin-project-exercises/blob/master/html-css/backgrounds-and-gradients/touchstone.html)
 * Add your solution above this line!
 
 
